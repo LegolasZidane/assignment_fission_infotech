@@ -2,7 +2,7 @@
   "name": "package.json",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://LegolasZidane.github.io/assignment_fission_infotech",
+  "homepage": "https://legolaszidane.github.io/assignment_fission_infotech/",
   "type": "module",
   "scripts": {
     "dev": "vite",
